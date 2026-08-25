@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Bhupesh-S/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhupesh-S/Leetcode/tree/master/0018-4sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Bhupesh-S/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Bhupesh-S/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhupesh-S/Leetcode/tree/master/0018-4sum) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Bhupesh-S/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
