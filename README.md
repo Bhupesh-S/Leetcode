@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Bhupesh-S/Leetcode/tree/master/0292-nim-game) |
 | [1872-stone-game-viii](https://github.com/Bhupesh-S/Leetcode/tree/master/1872-stone-game-viii) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhupesh-S/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Bhupesh-S/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+## Linked List
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhupesh-S/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhupesh-S/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
