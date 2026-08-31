@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Bhupesh-S/Leetcode/tree/master/0292-nim-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Bhupesh-S/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1872-stone-game-viii](https://github.com/Bhupesh-S/Leetcode/tree/master/1872-stone-game-viii) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhupesh-S/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3895-count-digit-appearances](https://github.com/Bhupesh-S/Leetcode/tree/master/3895-count-digit-appearances) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Bhupesh-S/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Bhupesh-S/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Linked List
 |  |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bhupesh-S/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Bhupesh-S/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Bhupesh-S/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
