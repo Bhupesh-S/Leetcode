@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Bhupesh-S/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhupesh-S/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
