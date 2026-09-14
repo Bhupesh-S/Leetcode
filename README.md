@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Bhupesh-S/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Bhupesh-S/Leetcode/tree/master/0605-can-place-flowers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhupesh-S/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/Bhupesh-S/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Bhupesh-S/Leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bhupesh-S/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhupesh-S/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Bhupesh-S/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Bhupesh-S/Leetcode/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/Bhupesh-S/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
