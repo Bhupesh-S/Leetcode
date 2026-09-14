@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhupesh-S/Leetcode/tree/master/0169-majority-element) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhupesh-S/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Bhupesh-S/Leetcode/tree/master/0605-can-place-flowers) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Bhupesh-S/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1872-stone-game-viii](https://github.com/Bhupesh-S/Leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bhupesh-S/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhupesh-S/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Bhupesh-S/Leetcode/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhupesh-S/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhupesh-S/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Bhupesh-S/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhupesh-S/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
@@ -64,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Bhupesh-S/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhupesh-S/Leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Bhupesh-S/Leetcode/tree/master/0169-majority-element) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Bhupesh-S/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhupesh-S/Leetcode/tree/master/0169-majority-element) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Bhupesh-S/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhupesh-S/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bhupesh-S/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Bhupesh-S/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
