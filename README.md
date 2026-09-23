@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Bhupesh-S/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhupesh-S/Leetcode/tree/master/0018-4sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhupesh-S/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhupesh-S/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Bhupesh-S/Leetcode/tree/master/0169-majority-element) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhupesh-S/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhupesh-S/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1872-stone-game-viii](https://github.com/Bhupesh-S/Leetcode/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
