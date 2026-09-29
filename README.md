@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Bhupesh-S/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Bhupesh-S/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1872-stone-game-viii](https://github.com/Bhupesh-S/Leetcode/tree/master/1872-stone-game-viii) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Bhupesh-S/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhupesh-S/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bhupesh-S/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bhupesh-S/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Bhupesh-S/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Bhupesh-S/Leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bhupesh-S/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Bhupesh-S/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhupesh-S/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Bhupesh-S/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhupesh-S/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Bhupesh-S/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bhupesh-S/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhupesh-S/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Bhupesh-S/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Bhupesh-S/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Linked List
 |  |
@@ -213,5 +216,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Bhupesh-S/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Bhupesh-S/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bhupesh-S/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
