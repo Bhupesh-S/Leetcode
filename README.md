@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Bhupesh-S/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Bhupesh-S/Leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Bhupesh-S/Leetcode/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Bhupesh-S/Leetcode/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhupesh-S/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Bhupesh-S/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1476-subrectangle-queries](https://github.com/Bhupesh-S/Leetcode/tree/master/1476-subrectangle-queries) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Bhupesh-S/Leetcode/tree/master/0867-transpose-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhupesh-S/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Bhupesh-S/Leetcode/tree/master/0867-transpose-matrix) |
 | [1476-subrectangle-queries](https://github.com/Bhupesh-S/Leetcode/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/Bhupesh-S/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Bhupesh-S/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
