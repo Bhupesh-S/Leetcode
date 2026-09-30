@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhupesh-S/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Bhupesh-S/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Bhupesh-S/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Bhupesh-S/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhupesh-S/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bhupesh-S/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bhupesh-S/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhupesh-S/Leetcode/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhupesh-S/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhupesh-S/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Bhupesh-S/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Bhupesh-S/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Bhupesh-S/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Bhupesh-S/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Bhupesh-S/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Bhupesh-S/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Design
 |  |
