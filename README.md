@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhupesh-S/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Bhupesh-S/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Bhupesh-S/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2540-minimum-common-value](https://github.com/Bhupesh-S/Leetcode/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Bhupesh-S/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhupesh-S/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bhupesh-S/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhupesh-S/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhupesh-S/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhupesh-S/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/Bhupesh-S/Leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhupesh-S/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhupesh-S/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Bhupesh-S/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/Bhupesh-S/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhupesh-S/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bhupesh-S/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Bhupesh-S/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Bhupesh-S/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhupesh-S/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhupesh-S/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2540-minimum-common-value](https://github.com/Bhupesh-S/Leetcode/tree/master/2540-minimum-common-value) |
 ## Memoization
 |  |
 | ------- |
