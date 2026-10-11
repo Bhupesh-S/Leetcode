@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Bhupesh-S/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Bhupesh-S/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhupesh-S/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bhupesh-S/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bhupesh-S/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bhupesh-S/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Bhupesh-S/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Bhupesh-S/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bhupesh-S/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
