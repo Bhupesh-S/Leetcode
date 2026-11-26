@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Bhupesh-S/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhupesh-S/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Bhupesh-S/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Bhupesh-S/Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhupesh-S/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhupesh-S/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Bhupesh-S/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhupesh-S/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Bhupesh-S/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Bhupesh-S/Leetcode/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhupesh-S/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bhupesh-S/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Bhupesh-S/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Bhupesh-S/Leetcode/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/Bhupesh-S/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhupesh-S/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Bhupesh-S/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Bhupesh-S/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhupesh-S/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhupesh-S/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
